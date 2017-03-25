@@ -78,3 +78,11 @@ if (hungerLevel > 7) {
 } else {
   console.log('Let\'s eat later.');
 }
+
+
+var moonPhase = 'full';
+if (moonPhase === 'full') {
+  console.log("Howwwwlll!!");
+} else {
+  console.log("I swear I am not a werewolf...");
+}
