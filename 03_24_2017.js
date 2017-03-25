@@ -26,3 +26,19 @@ console.log(365 % 27);
 
 //Math Function
 console.log(Math.floor(Math.random() * 100));
+
+//Variables
+var strength = '50,000 pounds.';
+console.log('How heavy am I?', strength);
+
+var strength = '50,000 pounds.';
+var age = 26;
+console.log(age);
+
+var hasPet = true;
+console.log (hasPet);
+console.log('How heavy am I?', strength);
+
+var morningAlarm = '6:30AM';
+morningAlarm = '7:00AM';
+console.log('Morning alarm is set to: ', morningAlarm);
