@@ -19,4 +19,4 @@ console.log('Cheese', "bacon");
 console.log(3.5 + 26); //Addition
 console.log(2017 - 1969); //Subtraction
 console.log(65 / 240); //Divison 
-console.log(0.2708333333333333 * 100); //Multi
+console.log(0.2708333333333333 * 100); //Mult
