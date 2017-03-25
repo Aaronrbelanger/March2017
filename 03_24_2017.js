@@ -126,7 +126,7 @@ switch (moonPhase) {
     break;
  
   case 'mostly full':
-     console.log("Arms and legs are getting 			     hairier");
+     console.log("Arms and legs are getting hairier");
   break;
  
   case "mostly new":
