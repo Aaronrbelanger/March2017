@@ -115,5 +115,37 @@ if (moonPhase === 'full' || foggyNight === true) {
 }
 
 
+//Switch, Case, Break, Default
+var moonPhase = 'full';
+// var foggyNight = false;
+
+switch (moonPhase) {
+  
+  case 'full':
+     console.log("Howwwwlll!!");
+    break;
+ 
+  case 'mostly full':
+     console.log("Arms and legs are getting 			     hairier");
+  break;
+ 
+  case "mostly new":
+     console.log("Back on two feet");
+  break;
+
+  default: 
+     console.log("Invalid moon phase");
+  break;
+        }
+
+
+//Parameters
+
+function takeOrder(topping) {
+  console.log('Order: pizza topped with ' + topping);
+}
+
+takeOrder('bacon');
+
 
 
