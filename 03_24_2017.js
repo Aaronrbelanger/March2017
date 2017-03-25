@@ -20,3 +20,9 @@ console.log(3.5 + 26); //Addition
 console.log(2017 - 1969); //Subtraction
 console.log(65 / 240); //Divison 
 console.log(0.2708333333333333 * 100); //Mult
+
+//Modulus Lesson %
+console.log(365 % 27);
+
+//Math Function
+console.log(Math.floor(Math.random() * 100));
