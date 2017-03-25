@@ -42,3 +42,39 @@ console.log('How heavy am I?', strength);
 var morningAlarm = '6:30AM';
 morningAlarm = '7:00AM';
 console.log('Morning alarm is set to: ', morningAlarm);
+
+var favoriteAnimal = 'cat';
+console.log('My favorite animal: ' +  favoriteAnimal + '.');
+
+var needCoffee = true;
+if (needCoffee) {
+    console.log('Finding coffee');
+} else {
+    console.log('Keep on keeping on!');
+}
+
+var harryPotterFan = true;
+if (harryPotterFan) {
+  console.log('Mischief managed.');
+} else {
+  console.log('I lead a muggle\'s life.');
+}
+
+
+var hungerLevel = 5;
+
+if (hungerLevel > 7) {
+  console.log('Time to eat!');
+} else {
+  console.log('Let\'s eat later.');
+}
+
+
+
+var hungerLevel = 10;
+
+if (hungerLevel > 7) {
+  console.log('Time to eat!');
+} else {
+  console.log('Let\'s eat later.');
+}
